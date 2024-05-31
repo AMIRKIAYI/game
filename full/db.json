@@ -1,0 +1,8 @@
+{
+    "animals": [
+      { "id": 1, "name": "Zebra", "image": "/images/image2.png", "votes": 0 },
+      { "id": 2, "name": "Rabbit", "image": "/images/image3.png", "votes": 0 },
+      { "id": 3, "name": "Cat", "image": "/images/image4.png", "votes": 0 },
+      { "id": 4, "name": "Deer", "image": "/images/image5.png", "votes": 0 }
+    ]
+  }
